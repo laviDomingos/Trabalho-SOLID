@@ -1,6 +1,6 @@
 # Atividade SOLID 
 
-Este trabalho foi desenvolvido no dia 25/08/2025 na Unidade Curricular de Arquitetura de Sistemas pelo professor Matheus Quost.
+Este trabalho foi desenvolvido por Julia de França Macena Silva e Lavínia Domingos, no dia 25/08/2025 na Unidade Curricular de Arquitetura de Sistemas pelo professor Matheus Quost.
 
 # Índice
 - [O que é SOLID? ](#OqueéSOLID?)
